@@ -81,7 +81,7 @@ function finishGame() {
         case (perfomance > 90):
             message = "Excelente"
             break
-        case (perfomance > 70):
+        case (perfomance > 70): 
             message = "Muito Bom"
             break
         case (perfomance > 50):
