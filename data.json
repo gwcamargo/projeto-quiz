@@ -1,0 +1,58 @@
+{
+    "questoes": [
+        {
+            "num_questao": 0,
+            "pergunta": "pergunta",
+            "Alternativa A": "Alternativa A",
+            "Alternativa B": "Alternativa B",
+            "Alternativa C": "Alternativa C",
+            "Alternativa D": "Alternativa D",
+            "correta": "0" 
+        },
+        {
+            "num_questao": 1,
+            "pergunta": "Qual é o país mais populoso do mundo?",
+            "Alternativa A": "China",
+            "Alternativa B": "Estados Unidos",
+            "Alternativa C": "Brasil",
+            "Alternativa D": "México",
+            "correta": "China"
+        },
+        {
+            "num_questao": 2,
+            "pergunta": "Qual o menor e o maior país do mundo?",
+            "Alternativa A": "Rússia e Portugal",
+            "Alternativa B": "Estados Unidos e Vaticano",
+            "Alternativa C": "Rússia e Vaticano",
+            "Alternativa D": "Argentina e Peru",
+            "correta": "Rússia e Vaticano"
+        },
+        {
+            "num_questao": 3,
+            "pergunta": "Onde está localizado o Monte Roraima?",
+            "Alternativa A": "Venezuela, Colômbia e Peru",
+            "Alternativa B": "Brasil, Venezuela e Guiana",
+            "Alternativa C": "Nicarágua, Costa Rica e Chile",
+            "Alternativa D": "México, Canadá e Estados Unidos",
+            "correta": "Brasil, Venezuela e Guiana"
+        },
+        {
+            "num_questao": 4, 
+            "pergunta": "Qual a capital da Rússia?",
+            "Alternativa A": "Roma",
+            "Alternativa B": "Lisboa",
+            "Alternativa C": "Moscou",
+            "Alternativa D": "Nova York",
+            "correta": "Moscou"
+        },
+        {
+            "num_questao": 5,
+            "pergunta": "Quando o Brasil se tornou um país independente?",
+            "Alternativa A": "1892",
+            "Alternativa B": "1790",
+            "Alternativa C": "1900",
+            "Alternativa D": "1945",
+            "correta": "1892"
+        }
+    ]
+}
